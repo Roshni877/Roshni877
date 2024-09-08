@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roshni.
 - Born in Bahrain and raised in Udupi,
 - I excelled in my academics with 98% in 10th grade and 94% in 2nd PU.
-- Currently,I'm persuing my B.E at SMVITM, where I achieved 9.4 CGPA in my 1st year..
+- Currently, I'm persuing my B.E at SMVITM, where I achieved 9.4 CGPA in my 1st year..
   
   
   
