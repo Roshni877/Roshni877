@@ -116,6 +116,7 @@
       src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
       width="48"
       height="48"
+      color="Red"
       alt="YouTube"
     />
   </a>
