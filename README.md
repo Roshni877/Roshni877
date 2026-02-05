@@ -134,3 +134,16 @@
 <p align="center">
   💜 Thanks for visiting — happy coding!
 </p>
+
+<div align="center">
+  <p style="font-size:18px;">
+    💜 Thanks for visiting — happy coding!
+  </p>
+</div>
+
+<img
+  src="https://assets-v2.lottiefiles.com/a/4bf2d592-1167-11ee-8a8d-bbdfcfa1076e/vzzruVKRuU.gif"
+  width="220"
+  align="right"
+  alt="happy coding animation"
+/>
