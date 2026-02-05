@@ -26,6 +26,14 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
+<!-- RIGHT SIDE GIRL CODING (FIXED) -->
+<img 
+  src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
+  width="230"
+  align="right"
+  alt="cute girl coding on laptop"
+/>
+
 <h3>💻 Programming Languages</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=c,java,javascript,python" />
@@ -64,18 +72,18 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=roshni877&show_icons=true"
+    src="https://github-readme-stats.vercel.app/api?username=roshni877&show_icons=true&theme=tokyonight"
     width="48%"
   />
   <img
-    src="https://streak-stats.demolab.com?user=roshni877"
+    src="https://streak-stats.demolab.com?user=roshni877&theme=tokyonight"
     width="48%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshni877&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshni877&layout=compact&theme=tokyonight"
     width="45%"
   />
 </p>
@@ -88,7 +96,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=roshni877&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=roshni877&theme=dracula&row=1&column=6"
   />
 </p>
 
@@ -113,9 +121,8 @@
 
   <a href="https://youtube.com/@roshni-e4p">
     <img 
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.png"
       width="48"
-      height="48"
       alt="YouTube"
     />
   </a>
