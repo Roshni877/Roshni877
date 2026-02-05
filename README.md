@@ -29,8 +29,7 @@
 <!-- RIGHT SIDE GIRL CODING (FIXED) -->
 <img 
   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpUCuoXCOEynMoq8QWE6kPPvlZXjPZ3yIyw&s"
-  width="250"
-  height="100"
+  width="230"
   align="right"
   alt="cute girl coding on laptop"
 />
