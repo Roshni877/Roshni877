@@ -6,7 +6,7 @@
     alt="Typing SVG"
   />
   <img
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpUCuoXCOEynMoq8QWE6kPPvlZXjPZ3yIyw&s"
+    src="https://camo.githubusercontent.com/74cc0452d5813e00f23a883484072384069a4d9f76c944f1f1046ed7b035b90e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e676966"
     width="85"
     alt="girl coding gif"
   />
