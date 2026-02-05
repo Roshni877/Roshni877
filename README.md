@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=2600&pause=1200&color=9B5DE5&center=true&vCenter=true&multiline=true&width=700&height=170&lines=Hi%2C+I'm+Roshni+%F0%9F%92%9C;Software+Engineer;Code.+Create.+Repeat."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=2000&pause=600&color=9B5DE5&center=true&vCenter=true&multiline=true&width=700&height=170&lines=Hi%2C+I'm+Roshni+%F0%9F%92%9C;Software+Engineer;Code.+Create.+Repeat."
     alt="Typing SVG"
   />
   <img
@@ -102,14 +102,22 @@
   <a href="https://github.com/roshni877">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+
   <a href="https://www.linkedin.com/in/roshni-07aaab28b">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="https://www.instagram.com/roshni_p1659">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+
   <a href="https://youtube.com/@roshni-e4p">
-    <img src="https://skillicons.dev/icons?i=youtube" />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
+      width="48"
+      height="48"
+      alt="YouTube"
+    />
   </a>
 </p>
 
