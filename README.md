@@ -6,7 +6,7 @@
     alt="Typing SVG"
   />
   <img
-    src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpUCuoXCOEynMoq8QWE6kPPvlZXjPZ3yIyw&s"
     width="85"
     alt="girl coding gif"
   />
