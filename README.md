@@ -107,6 +107,13 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+<a href="mailto:roshni135531@gmail.com">
+  <img 
+    src="https://skillicons.dev/icons?i=gmail"
+    alt="Email"
+  />
+</a>
+
   <a href="https://github.com/roshni877">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
