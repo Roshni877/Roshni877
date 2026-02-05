@@ -2,12 +2,12 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&duration=2500&pause=1200&color=C084FC&center=true&vCenter=true&multiline=true&width=650&height=140&lines=Hi%2C+I'm+Roshni+%F0%9F%92%9C;Software+Engineer;Code.+Create.+Repeat."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=38&duration=2600&pause=1200&color=9B5DE5&center=true&vCenter=true&multiline=true&width=700&height=170&lines=Hi%2C+I'm+Roshni+%F0%9F%92%9C;Software+Engineer;Code.+Create.+Repeat."
     alt="Typing SVG"
   />
   <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDExaThsZ2RkMGk0Njc0aW9yZ2F5d29tZ3d4aG80aWJ2b2p2a2Z0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkyEOhBCb7e1/giphy.gif"
-    width="80"
+    src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
+    width="85"
     alt="girl coding gif"
   />
 </h1>
@@ -17,12 +17,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roshni877&label=Profile%20Views&color=bb86fc&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=roshni877&label=Profile%20Views&color=9B5DE5&style=flat" />
 </p>
 
 <hr>
 
-<!-- ===================== SKILLS ===================== -->
+<!-- ===================== TECH STACK ===================== -->
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -64,18 +64,18 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=roshni877&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=roshni877&show_icons=true"
     width="48%"
   />
   <img
-    src="https://streak-stats.demolab.com?user=roshni877&hide_border=true"
+    src="https://streak-stats.demolab.com?user=roshni877"
     width="48%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshni877&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshni877&layout=compact"
     width="45%"
   />
 </p>
@@ -88,13 +88,13 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=roshni877&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=roshni877&row=1&column=6"
   />
 </p>
 
 <hr>
 
-<!-- ===================== SOCIAL ICONS ===================== -->
+<!-- ===================== CONNECT ===================== -->
 
 <h2 align="center">🌐 Connect With Me</h2>
 
