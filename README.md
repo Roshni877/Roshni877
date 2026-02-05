@@ -28,7 +28,7 @@
 
 <!-- RIGHT SIDE GIRL CODING (FIXED) -->
 <img 
-  src="https://camo.githubusercontent.com/ac2bf50504c8fc3c823a2d50c2957007f04e85ada98bd7fd867976ca7b0ce4ab/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635163705543756f58434f45796e4d6f7138515745366b5050766c5a586a505a33794979772673"
+  src="https://assets-v2.lottiefiles.com/a/4bf2d592-1167-11ee-8a8d-bbdfcfa1076e/vzzruVKRuU.gif"
   width="230"
   align="right"
   alt="cute girl coding on laptop"
