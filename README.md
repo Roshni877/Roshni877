@@ -121,8 +121,9 @@
 
   <a href="https://youtube.com/@roshni-e4p">
     <img 
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.png"
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
       width="48"
+      height="48"
       alt="YouTube"
     />
   </a>
