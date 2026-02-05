@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&duration=2500&pause=1200&color=C084FC&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Hi%2C+I'm+Roshni+%F0%9F%92%9C;Software+Engineer;Code.+Create.+Repeat."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&duration=2500&pause=1200&color=C084FC&center=true&vCenter=true&multiline=true&width=650&height=140&lines=Hi%2C+I'm+Roshni+%F0%9F%92%9C;Software+Engineer;Code.+Create.+Repeat."
     alt="Typing SVG"
   />
   <img
@@ -64,18 +64,18 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=roshni877&show_icons=true&theme=react&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=roshni877&show_icons=true&hide_border=true"
     width="48%"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=roshni877&theme=react&hide_border=true"
+    src="https://streak-stats.demolab.com?user=roshni877&hide_border=true"
     width="48%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshni877&layout=compact&theme=react&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshni877&layout=compact&hide_border=true"
     width="45%"
   />
 </p>
@@ -88,33 +88,33 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=roshni877&theme=onestar&no-frame=true&row=1&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=roshni877&no-frame=true&row=1&column=6"
   />
 </p>
 
 <hr>
 
-<!-- ===================== SOCIAL LINKS ===================== -->
+<!-- ===================== SOCIAL ICONS ===================== -->
 
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
   <a href="https://github.com/roshni877">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/roshni-07aaab28b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/roshni_p1659">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://youtube.com/@roshni-e4p">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" />
+    <img src="https://skillicons.dev/icons?i=youtube" />
   </a>
 </p>
 
 <hr>
 
 <p align="center">
-  💜 Thanks for visiting my profile — happy coding!
+  💜 Thanks for visiting — happy coding!
 </p>
