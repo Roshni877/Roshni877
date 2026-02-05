@@ -28,7 +28,7 @@
 
 <!-- RIGHT SIDE GIRL CODING (FIXED) -->
 <img 
-  src="https://assets-v2.lottiefiles.com/a/4bf2d592-1167-11ee-8a8d-bbdfcfa1076e/vzzruVKRuU.gif"
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcpUCuoXCOEynMoq8QWE6kPPvlZXjPZ3yIyw&s"
   width="230"
   align="right"
   alt="cute girl coding on laptop"
