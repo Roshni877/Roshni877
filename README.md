@@ -112,14 +112,14 @@
   </a>
 
   <a href="https://youtube.com/@roshni-e4p">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
-      width="48"
-      height="48"
-      color="Red"
-      alt="YouTube"
-    />
-  </a>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg"
+    width="48"
+    height="48"
+    alt="YouTube"
+    style="filter: invert(18%) sepia(95%) saturate(7494%) hue-rotate(356deg) brightness(95%) contrast(120%);"
+  />
+</a>
 </p>
 
 <hr>
