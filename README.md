@@ -131,9 +131,6 @@
 
 <hr>
 
-<p align="center">
-  💜 Thanks for visiting — happy coding!
-</p>
 
 <div align="center">
   <p style="font-size:18px;">
