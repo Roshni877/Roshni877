@@ -28,7 +28,7 @@
 
 <!-- RIGHT SIDE GIRL CODING (FIXED) -->
 <img 
-  src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
+  src="https://www.dreamstime.com/stylish-cartoon-girl-wearing-glasses-pink-winter-hat-using-laptop-d-icon-isolated-transparent-background-ideal-image390523822"
   width="230"
   align="right"
   alt="cute girl coding on laptop"
