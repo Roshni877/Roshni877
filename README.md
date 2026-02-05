@@ -1,23 +1,18 @@
 <!-- ===================== RIGHT SIDE CODING GIRL ===================== -->
 
 <img 
-  src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"
-  width="230"
+  src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"
+  width="240"
   align="right"
-  alt="girl coding laptop"
+  alt="girl coding on laptop"
 />
 
-<!-- ===================== TOP SECTION ===================== -->
+<!-- ===================== INTRO ===================== -->
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=2000&pause=600&color=9B5DE5&center=true&vCenter=true&multiline=true&width=720&height=180&lines=Hi%2C+I'm+Roshni+%F0%9F%92%9C;Software+Engineer;Code.+Create.+Repeat."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=40&duration=2000&pause=600&color=9B5DE5&center=true&vCenter=true&multiline=true&width=720&height=160&lines=Hi%2C+I'm+Roshni+%F0%9F%92%9C;Software+Engineer;Code.+Create.+Repeat."
     alt="Typing SVG"
-  />
-  <img
-    src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"
-    width="90"
-    alt="girl coding gif"
   />
 </h1>
 
@@ -35,34 +30,8 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3>💻 Programming Languages</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,python" />
-</p>
-
-<h3>🎨 Frontend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css" />
-</p>
-
-<h3>⚙️ Backend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,firebase" />
-</p>
-
-<h3>🗄️ Databases</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-<h3>☁️ DevOps</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=gcp" />
-</p>
-
-<h3>🔧 Others</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,arduino" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,python,react,bootstrap,html,css,nodejs,spring,firebase,mongodb,mysql,postgresql,linux,git,arduino,gcp" />
 </p>
 
 <hr>
@@ -85,7 +54,11 @@
   </a>
 
   <a href="https://youtube.com/@roshni-e4p">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img 
+      src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.png"
+      width="48"
+      alt="YouTube"
+    />
   </a>
 </p>
 
