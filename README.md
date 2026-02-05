@@ -28,7 +28,7 @@
 
 <!-- RIGHT SIDE GIRL CODING (FIXED) -->
 <img 
-  src="https://www.picture.lk/photo/337159/vector-illustration-of-a-cartoon-cute-girl-working-on-a-laptop-at-an-office-desk-40"
+  src="https://lottiefiles.com/free-animation/woman-working-on-laptop-in-office-HZmf8rwTre"
   width="230"
   align="right"
   alt="cute girl coding on laptop"
